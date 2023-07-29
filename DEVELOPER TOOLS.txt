@@ -1,0 +1,49 @@
+		DEVELOPER TOOLS
+
+ELEMENS :
+if you change something it will reflect on your output.
+
+CONSOLE :
+1. Checking the errors.
+2. Building logics.
+
+	Two type windows 
+	1. REPL > Read-eval-print loop - Code type in a console tab.
+	2. CLI  > Command-Line Interface - Code typing in a IDE.
+
+Variable :- 
+	Code usablity in a container.
+
+SOURCES :
+	Local hosts.
+	
+
+NETWORK:
+	It is completely network side, used to increase our website speed.
+
+PERFORMANCE :
+	 Here we are maintaining the our pages.
+	 CRUD	
+
+MEMORY :
+ 	It is used to how the page is using memory.
+
+APPLICATIONS :
+	> Local storage is Cookies.
+	> Session - Session storage is like session expired(Timing).
+
+SECURITY :
+
+It has 3 types 
+1. Secure 
+2. Info 
+3. Not Secure
+
+	SSL Certificate - Secure Sockets Layer.
+	TLS Certificate - Transport Layer Security.
+
+
+
+ 
+	
+	
