@@ -1,0 +1,31 @@
+.Cus-Head{
+    padding-left: 60px;
+}
+.MainHead{
+    font-size: 3em;
+    line-height: 70px;
+}
+.Cus-UL{
+     font-size: 25px; 
+}
+.Cus-Button{
+    font-weight: bolder;
+    border-radius: 20px;
+    border: 2px solid black;
+}
+.Cus-Background{
+    /* padding: 100px; */
+}
+
+.Custom{
+    background-color: #324739;
+}
+.Card{
+    height: 200px;
+    width: 300px;
+    background-color: rgb(248, 248, 248);
+    border-radius: 10px;
+}
+.CustomCard2{
+    
+}

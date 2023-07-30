@@ -1,0 +1,5 @@
+		BOOTSTRAP
+
+CONTAINER - Is a fixed width.
+CONTAINER FLUID - Is full width.
+
